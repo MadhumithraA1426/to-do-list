@@ -93,3 +93,12 @@ body {
         width: 100%;
     }
 }
+#datetime-input {
+    max-width: 250px;
+}
+
+.task-time {
+    font-size: 0.85rem;
+    color: #6c757d;
+    margin-left: 1rem;
+}
